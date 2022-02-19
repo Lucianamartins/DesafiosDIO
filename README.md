@@ -9,3 +9,27 @@ Saída
 Exiba o valor lido e a quantidade mínima de notas de cada tipo necessárias, seguindo o exemplo de saída abaixo. Após cada linha deve ser imprimido o fim de linha.
 
  <a href="https://github.com/Lucianamartins/DesafiosDIO/blob/main/CalculoMenorNumeroNotasPossveis.cs">código</a>
+ 
+ 
+ Desafio: Triangulo
+<br><br>
+ Leia 3 valores reais (A, B e C) e verifique se eles formam ou não um triângulo. Em caso positivo, calcule o perímetro do triângulo (soma de todos os lados) e apresente a mensagem:
+
+Perimetro = XX.X
+
+Em caso negativo, calcule a área do trapézio que tem A e B como base e C como altura, mostrando a mensagem:
+
+Area = XX.X
+
+Fórmula da área de um trapézio: AREA = ((A + B) x C) / 2
+
+Entrada
+A entrada contém três valores reais.
+
+Saída
+O resultado deve ser apresentado com uma casa decimal.
+
+
+ <a href="https://github.com/Lucianamartins/DesafiosDIO/blob/main/Triangulo.cs">código</a>
+ 
+ 
